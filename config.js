@@ -1,5 +1,6 @@
- export const BASE_URL = 'https://venturebridge-backend-production.up.railway.app'
-// const BASE_URL = 'http://localhost:5000'
+//  export const BASE_URL = 'https://venturebridge-backend-production.up.railway.app'
+ export const BASE_URL = 'https://venturebridge-server-1.onrender.com'
+// export const BASE_URL = 'http://localhost:5000'
 
 export const CONFIG = {
     registerUser: BASE_URL + '/api/auth/registerUser',
