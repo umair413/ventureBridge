@@ -1,0 +1,6 @@
+.bg-front{
+    background-image: url('../../assets/add-product-bg-front.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

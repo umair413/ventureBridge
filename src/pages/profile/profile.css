@@ -1,0 +1,13 @@
+.bg-front{
+    background-image: url('../../assets/add-product-bg-front.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.region-container{
+    margin-top: 8px;
+}
+.region-input{
+    border: none !important;
+    outline: none;
+}

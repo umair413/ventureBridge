@@ -1,0 +1,3 @@
+.category-icon:hover{
+    filter: invert(100%) sepia(0%) saturate(928%) hue-rotate(185deg) brightness(111%) contrast(101%);
+}

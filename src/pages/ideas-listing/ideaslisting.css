@@ -1,0 +1,13 @@
+.bg-front{
+    background-image: url('../../assets/ideas-listing/ideas-listing-front-bg.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.action-btn{
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    line-height: 28px;
+    text-align: center;
+}

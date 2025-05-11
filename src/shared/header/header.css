@@ -1,0 +1,9 @@
+@media(min-width:992px){
+    .mobile-dropdown{
+        display: none;
+    }
+}
+.dropdown-item:hover > .dropdown-menu{
+    opacity: 1;
+    visibility: visible;
+}

@@ -1,0 +1,11 @@
+.chat-background{
+    background-image: url('../../assets/chat-back.jpg');
+    background-position: center;
+}
+.rce-mbox.rce-mbox-right{
+    background-color: #128c7e !important;
+    color: white;
+}
+.rce-mbox.rce-mbox-right .rce-mbox-time.non-copiable{
+    color: white !important;
+}
